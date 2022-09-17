@@ -4,15 +4,12 @@ const config = {
 
     AppSecret: "e5dbbff43ad91fdec3bf85235695c620", //公众号里面取
 
-    base_templateId: "K9AllZnzXSzdsu6mRsIQoXNNfTtdj_4dpbHYjn7D7AI", // 元气提醒模板的id
+    base_templateId: "K9AllZnzXSzdsu6mRsIQoXNNfTtdj_4dpbHYjn7D7AI", // 每日推送模板的id
 
     birthday_templateId: "", // 生日模板id
 
-    pay_templateId: "", // 发薪模板id
-
     love_templateId: "", // 相恋模板id
 
-    token: "jimmyxuexue", //自定义的token
   },
 
   polymerization: {
